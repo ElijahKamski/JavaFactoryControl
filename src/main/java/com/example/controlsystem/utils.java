@@ -8,7 +8,7 @@ import java.util.*;
 public class utils {
     private static final String url = "jdbc:mysql://localhost:3306/ant";
     private static final String user = "root";
-    private static final String password = "12A34a56";
+    private static final String password = "0000";
 
     public static String ReadFrom(String query) {
         // JDBC variables for opening and managing connection
